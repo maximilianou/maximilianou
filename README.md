@@ -25,4 +25,4 @@ Software Developer
 
 - 🌱 I’m currently learning javascript.
 
-- :house: I Work From Home!
+- :house: I work from home!
