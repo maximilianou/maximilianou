@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Maximiliano Usich
+
+maximilianou@gmail.com
+
+Software Developer
+
+- 🔭 I’m currently working on javascript.
+
+- 🌱 I’m currently learning javascript.
+
+- :house: I Work From Home!
