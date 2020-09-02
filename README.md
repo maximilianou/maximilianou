@@ -21,8 +21,8 @@ maximilianou@gmail.com
 
 Software Developer
 
-- 🔭 I’m currently working on javascript.
+- 🔭 I’m currently working on Javascript and Typescript
 
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning Javascript and Typescript
 
 - :house: I work from home!
