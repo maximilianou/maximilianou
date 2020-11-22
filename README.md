@@ -23,6 +23,27 @@ Software Developer
 
 - 🔭 I’m currently working on Javascript and Typescript.
 
-- 🌱 I’m currently learning Javascript and Typescript, (learning aws, typescript, github actions, tdd, e2e, CI CD, swagger, auth)
+- 🌱 I’m currently learning Javascript and Typescript, 
+```
+{ learning-full-stack: {
+    aws: junior,
+    typescript: junior, 
+    react: junior,
+    express: junior,
+    github-actions: junior, 
+    tdd: junior, 
+    e2e: junior, 
+    CI: junior,
+    CD: junior, 
+    swagger: junior, 
+    auth: junior,
+    no-sql: junior,
+    graphql: junior,
+    git: semi-senior,
+    sql: senior,
+    oop: senior,
+    functional: junior
+  }}
+```
 
 - :house: I work from home!
