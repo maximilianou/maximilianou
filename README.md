@@ -24,6 +24,11 @@ Software Developer
 - 🔭 I’m currently working on Javascript and Typescript.
 
 - 🌱 I’m currently learning Javascript and Typescript, 
+
+https://my.indeed.com/p/maximilianou-s1rmnyx
+   
+- :house: I work from home!
+
 ```
 { learning-full-stack: {
     aws: junior,
@@ -45,6 +50,3 @@ Software Developer
     functional: junior
   }}
 ```
-https://my.indeed.com/p/maximilianou-s1rmnyx
-   
-- :house: I work from home!
