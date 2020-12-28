@@ -33,6 +33,7 @@ https://my.indeed.com/p/maximilianou-s1rmnyx
 { learning-full-stack: {
     aws: junior,
     typescript: intermediate, 
+    javascript: expert, 
     react: intermediate,
     express: expert,
     github-actions: intermediate, 
