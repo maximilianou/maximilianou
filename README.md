@@ -31,23 +31,22 @@ https://my.indeed.com/p/maximilianou-s1rmnyx
 
 ```
 { learning-full-stack: {
-    aws: junior,
-    typescript: intermediate, 
+    typescript: advanced, 
     javascript: expert, 
     react: intermediate,
     express: expert,
+    sql: expert,
+    swagger: expert, 
+    git: senior,
     github-actions: intermediate, 
     tdd: expert, 
-    e2e: intermediate, 
     CI: intermediate,
     CD: intermediate, 
-    swagger: expert, 
-    auth: intermediate,
+    e2e: intermediate, 
     no-sql: intermediate,
-    graphql: junior,
-    git: senior,
-    sql: senior,
     oop: expert,
-    functional: intermediate
+    functional: intermediate,
+    graphql: junior,
+    aws: junior,
   }}
 ```
