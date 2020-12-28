@@ -32,21 +32,21 @@ https://my.indeed.com/p/maximilianou-s1rmnyx
 ```
 { learning-full-stack: {
     aws: junior,
-    typescript: junior, 
-    react: junior,
-    express: junior,
-    github-actions: junior, 
-    tdd: junior, 
-    e2e: junior, 
-    CI: junior,
-    CD: junior, 
-    swagger: junior, 
-    auth: junior,
-    no-sql: junior,
+    typescript: intermediate, 
+    react: intermediate,
+    express: expert,
+    github-actions: intermediate, 
+    tdd: expert, 
+    e2e: intermediate, 
+    CI: intermediate,
+    CD: intermediate, 
+    swagger: expert, 
+    auth: intermediate,
+    no-sql: intermediate,
     graphql: junior,
-    git: semi-senior,
+    git: senior,
     sql: senior,
-    oop: senior,
-    functional: junior
+    oop: expert,
+    functional: intermediate
   }}
 ```
