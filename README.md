@@ -34,6 +34,7 @@ https://my.indeed.com/p/maximilianou-s1rmnyx
     typescript: advanced, 
     javascript: expert, 
     react: intermediate,
+    nodejs: expert,
     express: expert,
     sql: expert,
     swagger: expert, 
