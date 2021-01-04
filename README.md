@@ -22,32 +22,13 @@ maximilianou@gmail.com
 Software Developer
 
 - 🔭 I’m currently working on Javascript and Typescript.
-
-- 🌱 I’m currently learning Javascript and Typescript, 
-
-https://my.indeed.com/p/maximilianou-s1rmnyx
    
+- 100% REMOTE. European Union Citizenship.
+
+- I’ve been a Software Developer for approximately 20 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too, on big teams and small teams, so I can blend into any environment.
+
+- https://my.indeed.com/p/maximilianou-s1rmnyx
+
 - :house: I work from home!
 
-```
-{ learning-full-stack: {
-    typescript: advanced, 
-    javascript: expert, 
-    react: intermediate,
-    nodejs: expert,
-    express: expert,
-    sql: expert,
-    swagger: expert, 
-    git: senior,
-    github-actions: intermediate, 
-    tdd: expert, 
-    CI: intermediate,
-    CD: intermediate, 
-    e2e: intermediate, 
-    no-sql: intermediate,
-    oop: expert,
-    functional: intermediate,
-    graphql: junior,
-    aws: junior,
-  }}
-```
+- :family: Husband, father, Software Developer from start to finish.
