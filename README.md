@@ -32,3 +32,5 @@ Software Developer
 - :house: I work from home!
 
 - :family: Husband, father, Software Developer from start to finish.
+
+[ranking](public/img/codersrankTop12_202101221105.png)
