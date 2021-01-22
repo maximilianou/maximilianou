@@ -33,4 +33,4 @@ Software Developer
 
 - :family: Husband, father, Software Developer from start to finish.
 
-[ranking](public/img/codersrankTop12_202101221105.png)
+[![codersrank](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)
