@@ -33,6 +33,8 @@ Software Developer
 
 - :family: Husband, father, Software Developer from start to finish.
 
+- [Learning AWS Hello Lambda](https://github.com/maximilianou/weekly23)
+
 [![codersrank top](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)
 
 [![codersrank skills](https://github.com/maximilianou/maximilianou/blob/master/public/img/codersrankSkills202101221106.png?raw=true)](https://github.com/maximilianou/maximilianou/blob/master/public/img/codersrankSkills202101221106.png?raw=true)
