@@ -34,12 +34,12 @@ Software Developer
 - :family: Husband, father, Software Developer from start to finish.
 
 
-- [Draft Terraform AWS *WIP CI/CD with Terraform*](https://github.com/maximilianou/weekly31)
-- [Draft CI Typescript base proj ui,api - Github Action - Docker Hub - EKS Cluster local to AWS, *WIP CD* ](https://github.com/maximilianou/weekly30)
-- [Draft Kubernetes *WIP to the cloud*](https://github.com/maximilianou/weekly28)
-- [Draft Typescript MiddleWare Pattern *WIP more patterns*](https://github.com/maximilianou/weekly27)
-- [Draft Typescript React styled-components useState useQuery ecommerce *WIP more React*](https://github.com/maximilianou/weekly25)
-- [Draft AWS Hello Lambda *WIP more Lambda*](https://github.com/maximilianou/weekly23)
+- [Draft Terraform AWS ( *WIP CI/CD with Terraform* ) ](https://github.com/maximilianou/weekly31)
+- [Draft CI Typescript base proj ui,api - Github Action - Docker Hub - EKS Cluster local to AWS, ( *WIP CD* ) ](https://github.com/maximilianou/weekly30)
+- [Draft Kubernetes ( *WIP to the cloud* ) ](https://github.com/maximilianou/weekly28)
+- [Draft Typescript MiddleWare Pattern ( *WIP more patterns* ) ](https://github.com/maximilianou/weekly27)
+- [Draft Typescript React styled-components useState useQuery ecommerce ( *WIP more React* ) ](https://github.com/maximilianou/weekly25)
+- [Draft AWS Hello Lambda ( *WIP more Lambda* ) ](https://github.com/maximilianou/weekly23)
 
 [![codersrank top](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)
 
