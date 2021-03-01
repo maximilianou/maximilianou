@@ -34,12 +34,12 @@ Software Developer
 - :family: Husband, father, Software Developer from start to finish.
 
 
-- [Draft Terraform AWS ( *WIP CI/CD with Terraform* ) ](https://github.com/maximilianou/weekly31)
-- [Draft CI Typescript base proj ui,api - Github Action - Docker Hub - EKS Cluster local to AWS, ( *WIP CD* ) ](https://github.com/maximilianou/weekly30)
-- [Draft Kubernetes ( *WIP to the cloud* ) ](https://github.com/maximilianou/weekly28)
-- [Draft Typescript MiddleWare Pattern ( *WIP more patterns* ) ](https://github.com/maximilianou/weekly27)
-- [Draft Typescript React styled-components useState useQuery ecommerce ( *WIP more React* ) ](https://github.com/maximilianou/weekly25)
-- [Draft AWS Hello Lambda ( *WIP more Lambda* ) ](https://github.com/maximilianou/weekly23)
+- [Step by Step Terraform AWS ( *Next Step CI/CD with Terraform* ) ](https://github.com/maximilianou/weekly31)
+- [Step by Step CI Typescript base proj ui,api - Github Action - Docker Hub - EKS Cluster local to AWS, ( *Next Step CD* ) ](https://github.com/maximilianou/weekly30)
+- [Step by Step Kubernetes ( *Next Step more to the cloud* ) ](https://github.com/maximilianou/weekly28)
+- [Step by Step Typescript MiddleWare Pattern ( *Next Step more patterns* ) ](https://github.com/maximilianou/weekly27)
+- [Step by Step Typescript React styled-components useState useQuery ecommerce ( *Next Step more React* ) ](https://github.com/maximilianou/weekly25)
+- [Step by Step AWS Hello Lambda ( *Next Step more Lambda* ) ](https://github.com/maximilianou/weekly23)
 
 [![codersrank top](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)
 
