@@ -41,6 +41,7 @@ Software Developer
 - [Step by Step Typescript MiddleWare Pattern ( *Next Step more patterns* ) ](https://github.com/maximilianou/weekly27)
 - [Step by Step Typescript React styled-components useState useQuery ecommerce ( *Next Step more React* ) ](https://github.com/maximilianou/weekly25)
 - [Step by Step AWS CloudFormation Lambda Hello  ( *Next Step more Lambda* ) ](https://github.com/maximilianou/weekly23)
+- [Typescript - API - TDD - Express OpenAPI Swagger Jest - Coverage](https://github.com/maximilianou/weekly22)
 
 [![codersrank top](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)
 
