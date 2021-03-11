@@ -40,7 +40,7 @@ Software Developer
 - [Step by Step Kubernetes ( *Next Step more to the cloud* ) ](https://github.com/maximilianou/weekly28)
 - [Step by Step Typescript MiddleWare Pattern ( *Next Step more patterns* ) ](https://github.com/maximilianou/weekly27)
 - [Step by Step Typescript React styled-components useState useQuery ecommerce ( *Next Step more React* ) ](https://github.com/maximilianou/weekly25)
-- [Step by Step AWS Hello Lambda ( *Next Step more Lambda* ) ](https://github.com/maximilianou/weekly23)
+- [Step by Step AWS CloudFormation Lambda Hello  ( *Next Step more Lambda* ) ](https://github.com/maximilianou/weekly23)
 
 [![codersrank top](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)
 
