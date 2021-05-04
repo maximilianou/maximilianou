@@ -25,7 +25,7 @@ Software Developer
    
 - 100% REMOTE. European Union Citizenship.
 
-- I’ve been a Software Developer for approximately 20 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too, on big teams and small teams, so I can blend into any environment.
+- I’ve been a Software Developer for approximately 20 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too, on big teams and small teams.
 
 - https://my.indeed.com/p/maximilianou-s1rmnyx
 
