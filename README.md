@@ -33,7 +33,7 @@ Software Developer
 
 - :family: Husband, father, Software Developer e2e.
 
-
+- [Step by Step NFT Marketplace, publish NFT and buy NFT, Smart Contract, blockchain using metamask wallet in chrome](https://github.com/maximilianou/weekly47)
 - [Step by Step GraphQL NodeJS Express (**Pure Javascript**) *Next Step connect with Postgres*](https://github.com/maximilianou/weekly32)
 - [Step by Step Terraform AWS ( **Create Infrastrcture in Any Cloud, AWS ( Linode, Azure, GCP)** *Next Step CI/CD with Terraform* ) ](https://github.com/maximilianou/weekly31)
 - [Step by Step CI Typescript base proj ui,api - Github Action - Docker Hub - EKS Cluster local to AWS, ( *Next Step CD* ) ](https://github.com/maximilianou/weekly30)
