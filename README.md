@@ -23,7 +23,7 @@ Software Developer
 
 - 🔭 I’m currently working on Javascript and Typescript.
    
-- 100% REMOTE. European Union Citizenship.
+- 100% REMOTE. EU Citizenship.
 
 - I’ve been a Software Developer for approximately 20 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too, on big teams and small teams.
 
@@ -31,7 +31,7 @@ Software Developer
 
 - :house: I work from home!
 
-- :family: Husband, father, Software Developer from start to finish.
+- :family: Husband, father, Software Developer e2e.
 
 
 - [Step by Step GraphQL NodeJS Express (**Pure Javascript**) *Next Step connect with Postgres*](https://github.com/maximilianou/weekly32)
