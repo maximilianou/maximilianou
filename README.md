@@ -45,4 +45,4 @@ Software Developer
 
 [![codersrank top](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)](https://raw.githubusercontent.com/maximilianou/maximilianou/master/public/img/codersrankTop12_202101221105.png)
 
-[![codersrank skills](https://github.com/maximilianou/maximilianou/blob/master/public/img/codersrankSkills202101221106.png?raw=true)](https://github.com/maximilianou/maximilianou/blob/master/public/img/codersrankSkills202101221106.png?raw=true)
+[![codersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)
