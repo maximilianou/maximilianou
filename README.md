@@ -43,6 +43,6 @@ Software Developer
 - [Step by Step AWS CloudFormation Lambda Hello  ( *Next Step more Lambda* ) ](https://github.com/maximilianou/weekly23)
 - [Typescript - API - TDD - Express OpenAPI Swagger Jest - Coverage](https://github.com/maximilianou/weekly22)
 
-[![codersrank top](https://github.com/maximilianou/maximilianou/blob/master/public/img/codersrankTopmaximilianou20210721.png?raw=true)](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximilianou)
+[![codersrank top](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximilianou)](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximilianou)
 
 [![codersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)
