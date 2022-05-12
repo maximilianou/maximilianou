@@ -23,7 +23,7 @@ Software Developer
 
 - 🔭 I’m currently working on Javascript and Typescript.
 
-- 2022 Learning Web 3 | Solidity | blockchain
+- Learning Web 3 | Solidity | blockchain | ( 2022 )
    
 - 100% REMOTE. EU Citizenship.
 
