@@ -22,6 +22,8 @@ maximilianou@gmail.com
 Software Developer
 
 - 🔭 I’m currently working on Javascript and Typescript.
+
+- 2022 Learning Web 3 | Solidity | blockchain
    
 - 100% REMOTE. EU Citizenship.
 
