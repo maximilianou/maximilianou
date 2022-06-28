@@ -49,4 +49,4 @@ Software Developer
 
 [![codersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)
 
-[![maximilianou_ok]("maximilianou_ok")](https://raw.githubusercontent.com/maximilianou/weekly55/main/simpledoers.eth/public/max_logo.svg)
+[![maximilianou_ok]("maximilianou_ok")](https://raw.githubusercontent.com/maximilianou/weekly55/main/simpledoers.eth/public/max_logo.svg?sanitize=true)
