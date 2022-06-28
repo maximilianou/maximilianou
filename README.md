@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **maximilianou/maximilianou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,3 +48,5 @@ Software Developer
 [![codersrank top](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximilianou)](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximilianou)
 
 [![codersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)
+
+[![maximilianou_ok]("maximilianou_ok")](https://raw.githubusercontent.com/maximilianou/weekly55/main/simpledoers.eth/public/max_logo.svg)
