@@ -21,7 +21,7 @@ maximilianou@gmail.com
 
 Software Developer
 
-- 🔭 I’m currently working on Javascript and Typescript.
+- 🔭 I’m currently developer Javascript, Typescript, nodejs, nextjs, linux.
 
 - Learning Web 3 | Solidity | blockchain | ( 2022 )
    
@@ -29,7 +29,11 @@ Software Developer
 
 - I’ve been a Software Developer for approximately 20 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too, on big teams and small teams.
 
-- https://my.indeed.com/p/maximilianou-s1rmnyx
+- [simpledoers.eth](https://simpledoers.eth.limo)
+
+- <https://my.indeed.com/p/maximilianou-s1rmnyx>
+
+- <https://maximilianou.blogspot.com>
 
 - :house: I work from home!
 
