@@ -39,7 +39,8 @@ Software Developer
 
 - :family: Husband, father, Software Developer e2e.
 
-- [ENS IPFS React Nextjs tailwindcss deploy simpledoers.eth over **fleek.io** free service ](https://github.com/maximilianou/weekly55)
+- [simplest html css layout nextjs react vercel https://weekly57-maximilianou.vercel.app/](https://weekly57-maximilianou.vercel.app/)
+- [ENS IPFS React Nextjs tailwindcss deploy simpledoers.eth over **fleek.io** free service ipns://simpledoers.eth https://simpledoers.eth.limo](https://github.com/maximilianou/weekly55)
 - [Step by Step NFT Marketplace, publish NFT and buy NFT, Smart Contract, blockchain using metamask wallet in chrome](https://github.com/maximilianou/weekly47)
 - [Step by Step GraphQL NodeJS Express (**Pure Javascript**) *Next Step connect with Postgres*](https://github.com/maximilianou/weekly32)
 - [Step by Step Terraform AWS ( **Create Infrastrcture in Any Cloud, AWS ( Linode, Azure, GCP)** *Next Step CI/CD with Terraform* ) ](https://github.com/maximilianou/weekly31)
