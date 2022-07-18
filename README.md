@@ -39,6 +39,7 @@ Software Developer
 
 - :family: Husband, father, Software Developer e2e.
 
+- [*Onboarding Solidity* - TDD Typescript Hardhat Nextjs ](https://github.com/maximilianou/weekly59)
 - [simplest html css layout nextjs react vercel ](https://weekly57-maximilianou.vercel.app/)
 - <https://weekly57-maximilianou.vercel.app/>
 - [ENS IPFS React Nextjs tailwindcss deploy simpledoers.eth over **fleek.io** free service ipns://simpledoers.eth https://simpledoers.eth.limo](https://github.com/maximilianou/weekly55)
