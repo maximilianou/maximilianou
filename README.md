@@ -39,18 +39,18 @@ Software Developer
 
 - :family: Husband, father, Software Developer e2e.
 
-- [Step by Step *Onboarding Solidity* - TDD Typescript Hardhat Nextjs ](https://github.com/maximilianou/weekly59)
-- [simplest html css layout nextjs react vercel ](https://weekly57-maximilianou.vercel.app/)
+- [Step by Step - *Onboarding TDD Solidity* - TDD Typescript Hardhat Nextjs folowing solidity by example ](https://github.com/maximilianou/weekly59)
+- [Step by Step - simplest react paralax css layout html nextjs vercel ](https://github.com/maximilianou/weekly57)
 - <https://weekly57-maximilianou.vercel.app/>
-- [ENS IPFS React Nextjs tailwindcss deploy simpledoers.eth over **fleek.io** free service ipns://simpledoers.eth https://simpledoers.eth.limo](https://github.com/maximilianou/weekly55)
-- [Step by Step NFT Marketplace, publish NFT and buy NFT, Smart Contract, blockchain using metamask wallet in chrome](https://github.com/maximilianou/weekly47)
-- [Step by Step GraphQL NodeJS Express (**Pure Javascript**) *Next Step connect with Postgres*](https://github.com/maximilianou/weekly32)
-- [Step by Step Terraform AWS ( **Create Infrastrcture in Any Cloud, AWS ( Linode, Azure, GCP)** *Next Step CI/CD with Terraform* ) ](https://github.com/maximilianou/weekly31)
-- [Step by Step CI Typescript base proj ui,api - Github Action - Docker Hub - EKS Cluster local to AWS, ( *Next Step CD* ) ](https://github.com/maximilianou/weekly30)
-- [Step by Step Kubernetes ( *Next Step more to the cloud* ) ](https://github.com/maximilianou/weekly28)
-- [Step by Step Typescript MiddleWare Pattern ( *Next Step more patterns* ) ](https://github.com/maximilianou/weekly27)
-- [Step by Step Typescript React styled-components useState useQuery ecommerce ( *Next Step more React* ) ](https://github.com/maximilianou/weekly25)
-- [Step by Step AWS CloudFormation Lambda Hello  ( *Next Step more Lambda* ) ](https://github.com/maximilianou/weekly23)
+- [Step by Step - ENS IPFS React Nextjs tailwindcss deploy simpledoers.eth over **fleek.io** free service ipns://simpledoers.eth https://simpledoers.eth.limo](https://github.com/maximilianou/weekly55)
+- [Step by Step - NFT Marketplace, publish NFT and buy NFT, Smart Contract, blockchain using metamask wallet in chrome](https://github.com/maximilianou/weekly47)
+- [Step by Step - GraphQL NodeJS Express (**Pure Javascript**) *Next Step connect with Postgres*](https://github.com/maximilianou/weekly32)
+- [Step by Step - Terraform AWS ( **Create Infrastrcture in Any Cloud, AWS ( Linode, Azure, GCP)** *Next Step CI/CD with Terraform* ) ](https://github.com/maximilianou/weekly31)
+- [Step by Step - CI Typescript base proj ui,api - Github Action - Docker Hub - EKS Cluster local to AWS, ( *Next Step CD* ) ](https://github.com/maximilianou/weekly30)
+- [Step by Step - Kubernetes ( *Next Step more to the cloud* ) ](https://github.com/maximilianou/weekly28)
+- [Step by Step - Typescript MiddleWare Pattern ( *Next Step more patterns* ) ](https://github.com/maximilianou/weekly27)
+- [Step by Step - Typescript React styled-components useState useQuery ecommerce ( *Next Step more React* ) ](https://github.com/maximilianou/weekly25)
+- [Step by Step - AWS CloudFormation Lambda Hello  ( *Next Step more Lambda* ) ](https://github.com/maximilianou/weekly23)
 - [Typescript - API - TDD - Express OpenAPI Swagger Jest - Coverage](https://github.com/maximilianou/weekly22)
 
 [![codersrank top](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximilianou&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximilianou)
