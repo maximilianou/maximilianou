@@ -31,7 +31,9 @@ Software Developer
 
 - [simpledoers.eth](https://simpledoers.eth.limo)  | <ipns://simpledoers.eth/> | <https://simpledoers.eth.limo>
 
-- <https://my.indeed.com/p/maximilianou-s1rmnyx>
+- <https://mirror.xyz/simpledoers.eth>
+
+- <https://profile.codersrank.io/user/maximilianou>
 
 - <https://maximilianou.blogspot.com>
 
@@ -56,4 +58,23 @@ Software Developer
 [![codersrank top](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximilianou&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximilianou)
 
 [![codersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)
+
+
+- {
+-   name: "Maximiliano Usich",
+-   email: "maximilianou@gmail.com",
+-   role: ["Husband", "Dad", "Software Developer", "Mentor", "Full Stack nodejs Javascript Typescript"],
+-   github: <https://github.com/maximilianou>,
+-   wallet: "simpledoers.eth",
+-   eth: <ipns://simpledoers.eth>,
+-   eth: <https://simpledoers.eth.limo>,
+-   codersrank: <https://profile.codersrank.io/user/maximilianou>,
+-   aCryptoCoffe: <https://www.buymeacryptocoffee.xyz/simpledoers.eth>,
+-   aCoffe: <https://www.buymeacoffee.com/simpledoers>,
+-   mirror: <https://mirror.xyz/simpledoers.eth/subscribe>,
+-   twitter: <https://twitter.com/maximilianou>,
+-   indeed: <https://my.indeed.com/p/maximilianou-s1rmnyx>, 
+-   linkedin: <https://www.linkedin.com/in/maximilianou/>
+- }
+
 
