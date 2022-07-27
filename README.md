@@ -31,7 +31,7 @@ Software Developer
 
 - [simpledoers.eth](https://simpledoers.eth.limo)  | <ipns://simpledoers.eth/> | <https://simpledoers.eth.limo>
 
-- <https://mirror.xyz/simpledoers.eth>
+- <https://mirror.xyz/simpledoers.eth> ( you can be a contributor and a supporter )
 
 - <https://profile.codersrank.io/user/maximilianou>
 
