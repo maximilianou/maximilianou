@@ -33,7 +33,7 @@ Software Developer
 
 - <https://mirror.xyz/simpledoers.eth> *( you can be a contributor and a supporter )*
 
-- <https://profile.codersrank.io/user/maximilianou> *( world wide coder presence )*
+- <https://profile.codersrank.io/user/maximilianou> *( world wide software developer presence )*
 
 - <https://maximilianou.blogspot.com>
 
