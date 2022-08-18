@@ -39,7 +39,7 @@ Software Developer
 
 - :house: I work from home!
 
-- :family: Husband, Dad, Software Developer, Software Craftsmanship.
+- :family_man_woman_boy_boy: Husband, Dad, Software Developer, Software Craftsmanship.
 
 - [Step by Step - *Onboarding TDD Solidity* - TDD Typescript Hardhat Nextjs folowing solidity by example ](https://github.com/maximilianou/weekly59)
 - [Step by Step - simplest react paralax css layout html nextjs vercel ](https://github.com/maximilianou/weekly57)
