@@ -23,6 +23,8 @@ Software Developer
 
 - 🔭 I’m currently developer Javascript, Typescript, nodejs, nextjs, linux.
 
+- Learning kubernetes, Time to Market, homelab proxmox: Deploy Typescrypt, Nodejs, Reactjs, Nextjs | ( 2023 )
+
 - Learning Web 3 | Solidity | blockchain | ( 2022 )
    
 - 100% REMOTE. Europe Citizen.
