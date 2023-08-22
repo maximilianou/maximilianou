@@ -23,8 +23,6 @@ Software Engineer
 
 - Learning Web 3 | Solidity | blockchain | ( 2022 )
    
-- 100% REMOTE. Europe Citizen.
-
 - I’ve been a Software Developer for +10 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too, on big teams and small teams.
 
 - [simpledoers.eth](https://simpledoers.eth.limo)  | <https://simpledoers.eth.limo>
