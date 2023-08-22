@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi 👋 
 
 <!--
 **maximilianou/maximilianou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,27 +19,23 @@ Maximiliano Usich
 
 maximilianou@gmail.com
 
-Software Developer
+Software Engineer
 
-- 🔭 I’m currently developer Javascript, Typescript, nodejs, nextjs, linux.
+- 🔭 I’m currently developer Javascript, Typescript, nodejs, nextjs, Linux.
 
-- Learning kubernetes, Time to Market, homelab proxmox: Deploy Typescrypt, Nodejs, Reactjs, Nextjs | ( 2023 )
+- 🌱 Learning kubernetes, Time to Market, homelab proxmox: Deploy Typescrypt, Nodejs, Reactjs, Nextjs | ( 2023 )
 
 - Learning Web 3 | Solidity | blockchain | ( 2022 )
    
 - 100% REMOTE. Europe Citizen.
 
-- I’ve been a Software Developer for approximately 20 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too, on big teams and small teams.
+- I’ve been a Software Developer for +10 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too, on big teams and small teams.
 
-- [simpledoers.eth](https://simpledoers.eth.limo)  | <ipns://simpledoers.eth/> | <https://simpledoers.eth.limo>
-
-- <https://mirror.xyz/simpledoers.eth> 
+- [simpledoers.eth](https://simpledoers.eth.limo)  | <https://simpledoers.eth.limo>
 
 - <https://profile.codersrank.io/user/maximilianou> 
 
 - <https://maximilianou.blogspot.com>
-
-- :house: I work from home!
 
 - :family_man_woman_boy_boy: Husband, Dad, Software Developer, Software Craftsmanship.
 
@@ -67,16 +63,13 @@ Software Developer
 -   email: "maximilianou@gmail.com",
 -   role: ["Husband", "Dad", "Software Developer", "Mentor", "Full Stack nodejs Javascript Typescript"],
 -   github: <https://github.com/maximilianou>,
--   wallet: "simpledoers.eth",
--   eth: <ipns://simpledoers.eth>,
 -   eth: <https://simpledoers.eth.limo>,
 -   codersrank: <https://profile.codersrank.io/user/maximilianou>,
+-   linkedin: <https://www.linkedin.com/in/maximilianou/>
+-   indeed: <https://my.indeed.com/p/maximilianou-s1rmnyx>, 
+-   twitter: <https://twitter.com/maximilianou>,
 -   aCryptoCoffe: <https://www.buymeacryptocoffee.xyz/simpledoers.eth>,
 -   aCoffe: <https://www.buymeacoffee.com/simpledoers>,
--   mirror: <https://mirror.xyz/simpledoers.eth/subscribe>,
--   twitter: <https://twitter.com/maximilianou>,
--   indeed: <https://my.indeed.com/p/maximilianou-s1rmnyx>, 
--   linkedin: <https://www.linkedin.com/in/maximilianou/>
 - }
 
 
