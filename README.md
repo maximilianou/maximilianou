@@ -53,7 +53,7 @@ Software Engineer
 
 [![codersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maximilianou)
 
-
+---
 > {
 > 
 >   name: "Maximiliano Usich",
@@ -79,5 +79,5 @@ Software Engineer
 >   aCoffe: <https://www.buymeacoffee.com/simpledoers>,
 > 
 > }
-
+---
 
