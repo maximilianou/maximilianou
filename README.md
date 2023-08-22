@@ -1,4 +1,4 @@
-### Hi 👋 
+### Hi 👋, my name is Maximiliano Usich, you can contact me over maximilianou@gmail.com
 
 <!--
 **maximilianou/maximilianou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Maximiliano Usich
-
-maximilianou@gmail.com
 
 Software Engineer
 
