@@ -55,17 +55,29 @@ Software Engineer
 
 
 > {
+> 
 >   name: "Maximiliano Usich",
+> 
 >   email: "maximilianou@gmail.com",
+> 
 >   role: ["Husband", "Dad", "Software Developer", "Mentor", "Full Stack nodejs Javascript Typescript"],
+> 
 >   github: <https://github.com/maximilianou>,
+> 
 >   eth: <https://simpledoers.eth.limo>,
+> 
 >   codersrank: <https://profile.codersrank.io/user/maximilianou>,
+> 
 >   linkedin: <https://www.linkedin.com/in/maximilianou/>
->   indeed: <https://my.indeed.com/p/maximilianou-s1rmnyx>, 
+> 
+>   indeed: <https://my.indeed.com/p/maximilianou-s1rmnyx>,
+> 
 >   twitter: <https://twitter.com/maximilianou>,
+> 
 >   aCryptoCoffe: <https://www.buymeacryptocoffee.xyz/simpledoers.eth>,
+> 
 >   aCoffe: <https://www.buymeacoffee.com/simpledoers>,
+> 
 > }
 
 
