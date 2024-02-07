@@ -19,11 +19,12 @@ Software Engineer
 
 - 🔭 I’m currently developer Javascript, Typescript, nodejs, nextjs, Linux.
 
+- 🌱 Learning kubernetes, Time to Market, homelab proxmox GitOps: Deploy Rust web developmment | ( 2024 )
 - 🌱 Learning kubernetes, Time to Market, homelab proxmox: Deploy Typescrypt, Nodejs, Reactjs, Nextjs | ( 2023 )
 
 - Learning Web 3 | Solidity | blockchain | ( 2022 )
    
-- I’ve been a Software Developer for +10 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too, on big teams and small teams.
+- I’ve been a Software Developer for +10 years, consistently working with the latest trends, focusing on simplifying complexity and working with teams to align on the Goal. I have worked for big companies and startups too.
 
 - [simpledoers.eth](https://simpledoers.eth.limo)  | <https://simpledoers.eth.limo>
 
